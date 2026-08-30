@@ -1,0 +1,13 @@
+{
+  "name": "pjbl-api",
+  "version": "1.0.0",
+  "description": "Azure Functions - Mock backend para o projeto PJBL",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.5.0"
+  }
+}
