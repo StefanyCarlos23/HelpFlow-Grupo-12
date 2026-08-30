@@ -9,4 +9,4 @@
 
 ## Repositório GitHub
 
-`COLE_AQUI_O_LINK_PUBLICO_DO_REPOSITORIO`
+- **GitHub:** [https://github.com/StefanyCarlos23/HelpFlow-Grupo-12](https://github.com/StefanyCarlos23/HelpFlow-Grupo-12)
