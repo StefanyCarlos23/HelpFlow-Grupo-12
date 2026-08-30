@@ -31,9 +31,11 @@ GET /api/chamados
 
 ## Links
 
+## Links
+
 - **GitHub:** https://github.com/StefanyCarlos23/HelpFlow-Grupo-12
-- **Azure Static Web Apps:** A definir
-- **Azure Function:** A definir
+- **Azure Static Web Apps:** https://gentle-sand-06fdb9e10.7.azurestaticapps.net
+- **Azure Function:** https://gentle-sand-06fdb9e10.7.azurestaticapps.net/api/chamados
 
 ## IAG
 
